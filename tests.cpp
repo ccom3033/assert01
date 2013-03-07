@@ -1,3 +1,8 @@
+// 
+// tests.h:
+//    Contains the declarations of the test functions.
+//
+
 #include <iostream>
 #include <cassert>
 #include "avg3.h"
